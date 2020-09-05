@@ -7,6 +7,7 @@
 ### CLI
 
 - The `yarn tag` commands have been ported over from Yarn Classic as `yarn npm tag`.
+- Windows users should no longer see `Terminate batch jobs` prompts when terminating running scripts
 
 ### Installs
 
